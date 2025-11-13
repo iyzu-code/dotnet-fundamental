@@ -1,0 +1,14 @@
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.exe
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.deps.json
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.runtimeconfig.json
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.dll
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.pdb
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.AssemblyInfoInputs.cache
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.AssemblyInfo.cs
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.csproj.CoreCompileInputs.cache
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.dll
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\refint\BasicProgramming.dll
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.pdb
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.genruntimeconfig.cache
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\ref\BasicProgramming.dll
