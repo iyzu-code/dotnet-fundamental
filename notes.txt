@@ -1,0 +1,6 @@
+return atau non void khusus business logic, tidak ada penggunaan print terminal
+return void tempat print terminal
+
+tiap tugas bungkus dalam satu method
+
+debug menggunakan breakpoint
