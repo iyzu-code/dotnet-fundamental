@@ -12,3 +12,4 @@ D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\refint\BasicP
 D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.pdb
 D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.genruntimeconfig.cache
 D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\ref\BasicProgramming.dll
+D:\Work\CLASS\DOTNET\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.sourcelink.json

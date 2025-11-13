@@ -1,0 +1,15 @@
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\bin\Debug\net9.0\OddEvenApp.exe
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\bin\Debug\net9.0\OddEvenApp.deps.json
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\bin\Debug\net9.0\OddEvenApp.runtimeconfig.json
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\bin\Debug\net9.0\OddEvenApp.dll
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\bin\Debug\net9.0\OddEvenApp.pdb
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\OddEvenApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\OddEvenApp.AssemblyInfoInputs.cache
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\OddEvenApp.AssemblyInfo.cs
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\OddEvenApp.csproj.CoreCompileInputs.cache
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\OddEvenApp.sourcelink.json
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\OddEvenApp.dll
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\refint\OddEvenApp.dll
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\OddEvenApp.pdb
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\OddEvenApp.genruntimeconfig.cache
+D:\Work\CLASS\DOTNET\Fundamental\OddEvenApp\obj\Debug\net9.0\ref\OddEvenApp.dll
