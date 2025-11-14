@@ -4,3 +4,10 @@ return void tempat print terminal
 tiap tugas bungkus dalam satu method
 
 debug menggunakan breakpoint
+
+pastikan curl brace 2 maksimal 3
+
+seleksi kondisi dimulai dari yang salah terlebih dahulu
+
+jika fungsi return boolean maka nama fungsi biasanya diawali dengan "is" ex: isLimitBelowZero
+

@@ -1,0 +1,15 @@
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\bin\Debug\net9.0\LearnOOP.exe
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\bin\Debug\net9.0\LearnOOP.deps.json
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\bin\Debug\net9.0\LearnOOP.runtimeconfig.json
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\bin\Debug\net9.0\LearnOOP.dll
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\bin\Debug\net9.0\LearnOOP.pdb
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\LearnOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\LearnOOP.AssemblyInfoInputs.cache
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\LearnOOP.AssemblyInfo.cs
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\LearnOOP.csproj.CoreCompileInputs.cache
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\LearnOOP.sourcelink.json
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\LearnOOP.dll
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\refint\LearnOOP.dll
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\LearnOOP.pdb
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\LearnOOP.genruntimeconfig.cache
+D:\Work\CLASS\DOTNET\Fundamental\LearnOOP\obj\Debug\net9.0\ref\LearnOOP.dll
