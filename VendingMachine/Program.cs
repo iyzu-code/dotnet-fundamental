@@ -270,9 +270,7 @@ class Program
                     case "quit":
                         return;
                     default:
-                        Console.WriteLine("Perintah tidak dikenal");
-                        Console.Read();
-                        break;
+                        throw new UnknownCommandException("*** Unknown Command. Try 'insert', 'select', 'refund' ***");
                 }
             }
             catch (InsufficientFundsException ex)

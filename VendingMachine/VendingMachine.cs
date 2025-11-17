@@ -49,13 +49,13 @@ public class VendingMachine
 
     public decimal PurchaseItem(string selectionCode)
     {
-        if (!_inventory.ContainsKey(selectionCode)) throw new KeyNotFoundException("Produk tidak tersedia");
+        if (!_inventory.ContainsKey(selectionCode)) throw new KeyNotFoundException($"*** ERROR: Code {selectionCode} does not exist. ***");
 
         var item = _inventory[selectionCode];
 
-        if (item.Quantity <= 0) throw new OutOfStockException("Stok produk habis");
+        if (item.Quantity <= 0) throw new OutOfStockException($"*** ERROR: Sorry, {item.Name} is out of stock. ***");
 
-        if (_currentBalance < item.Price) throw new InsufficientFundsException("Saldo tidak cukup");
+        if (_currentBalance < item.Price) throw new InsufficientFundsException($"*** ERROR: Insufficient funds. You need {item.Price - _currentBalance} more. ***");
 
         _currentBalance -= item.Price;
         item.Quantity--;
