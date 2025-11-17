@@ -11,3 +11,49 @@ seleksi kondisi dimulai dari yang salah terlebih dahulu
 
 jika fungsi return boolean maka nama fungsi biasanya diawali dengan "is" ex: isLimitBelowZero
 
+
+================ OOP ====================
+Pahami konsep OOP
+Object != Class
+Satu object memiliki satu tanggung jawab
+Bertujuan kode bisa digunakan berulang kali dan menghindari pengulangan penulisan kode
+
+Class = pemodelan dari objek yang berisi informasi, bisa digunakan berkali kali untuk object yang berbeda
+Object = hasil perwujudan dari dari suatu kelas atau penggunaan dari class (proses instansisi)
+
+class
+{
+ Behavior = tingkah laku
+}
+
+Object
+{
+
+}
+
+
+ENCAPSULATION
+
+? ACCES MODIFIER
+- private --> hanya bisa di pakai dalam kelas
+- protected --> bisa dipakai dalam kelas dan turunannya / inheritance
+- public --> bisa dipakai dimana saja
+- internal
+- protected
+- protected internal
+- private protected
+
+overloading = menambah method yang sama di class yang sama dengan parameter yang berbeda
+overridding = menambah tapi di child
+
+base() menurunkan sifat method parent
+
+constructure kode yang dipanggil pertama kali
+
+abstraction = 
+pengguna tidak perlu mengetahui isi dalam abstract
+proses menyembunyikan detail dan hanya menampilkan informasti penting
+
+interface = 
+Kontrak
+harus diikuti

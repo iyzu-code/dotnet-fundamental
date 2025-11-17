@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1R7PeUKMF9o=",
+  "dgSpecHash": "GylM/qz0o5Q=",
   "success": true,
   "projectFilePath": "D:\\Work\\CLASS\\DOTNET\\Fundamental\\LearnOOP\\LearnOOP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pf296_7sdghuk\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pf296_7sdghuk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pf296_7sdghuk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pf296_7sdghuk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

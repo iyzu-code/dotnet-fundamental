@@ -1,0 +1,53 @@
+! GENERIC
+- menampung value yang berbeda data type
+- menyederhanakan penggunaan CRUD
+
+Generic Class
+public class Employee<T>
+{
+    public T Id { get; set }
+}
+
+use ---
+
+public class Program
+{
+    public static void Main()
+    {
+        Employee<string> herul = new Employee<string>();
+        Employee<int> rifqi = new Employee<int>();
+    }
+}
+
+COLLECTION
+<LIST>
+Seperti array yang bisa menampung banyak value
+Namun, array harus ditetapkan maksimum index nya, sedangkan collection tidak
+
+<QUEUE>
+FIFO (First In First Out)
+enqueue - dequeue
+
+<STACK>
+LIFO (Last In First Out)
+push - pop
+
+<DICTIONARY>
+key dan value
+
+
+<IENUMERABLE>
+
+
+MONOLIT
+? DB BE FE jadi satu project
+
+CLIENT SERVER
+? DB API CLIENT dipisah
+
+MICROSERVICES
+? API server atau backend dipecah menjadi beberapa bagian dan tidak saling terhubung dihubungkan melalui API gateway
+? client tidak langsung hit ke API namun melalui API gateway
+
+MICROFRONTEND
+? 
